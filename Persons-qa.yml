@@ -2,7 +2,7 @@ build:
   version: 1.0
 
 persons-contacts:
-  message: "Persons QA"
+  message: "Persons QA Test"
   contactDetails:
     name: "Edward Malte"
     email: "lGm4o@example.com"
