@@ -2,7 +2,7 @@ build:
   version: 1.0
 
 financial-management-contacts:
-  message: "Financial-Management Production"
+  message: "Financial-Management Production Test of Test"
   contactDetails:
     name: "Edward Malte"
     email: "lGm4o@example.com"
