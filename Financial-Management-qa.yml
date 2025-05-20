@@ -2,7 +2,7 @@ build:
   version: 1.0
 
 financial-management-contacts:
-  message: "Financial-Management QA!"
+  message: "Financial-Management QA test webhook!"
   contactDetails:
     name: "Edward Malte"
     email: "lGm4o@example.com"
