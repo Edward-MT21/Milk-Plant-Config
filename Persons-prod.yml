@@ -2,7 +2,7 @@ build:
   version: 1.0
 
 persons-contacts:
-  message: "Persons Production!"
+  message: "Persons Production D"
   contactDetails:
     name: "Edward Malte"
     email: "lGm4o@example.com"
