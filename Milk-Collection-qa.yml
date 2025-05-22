@@ -2,7 +2,7 @@ build:
   version: 1.0
 
 milk-collection-contacts:
-  message: "Milk-Collection QA"
+  message: "Milk-Collection QA !!!"
   contactDetails:
     name: "Edward Malte"
     email: "qa@example.com"
