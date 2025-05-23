@@ -2,10 +2,10 @@ build:
   version: 1.0
 
 milk-collection-contacts:
-  message: "Milk-Collection Production"
+  message: "Milk-Collection Production!"
   contactDetails:
-    name: "Edward Malte"
-    email: "lGm4o@example.com"
+    name: "Edward Malte Tutalcha"
+    email: "{cipher}3c7c07ba5c030abe46e5a82446fb4e0cb5bd7ff5842f40e8e2656a58c7f74113eeafb88c7b3c19d16bab67fc25ecb61a"
   onCallSupport:
-    - 317888
-    - 317999
+    - 317881
+    - 317991

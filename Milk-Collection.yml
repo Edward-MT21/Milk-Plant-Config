@@ -2,10 +2,10 @@ build:
   version: 1.0
 
 milk-collection-contacts:
-  message: "Milk-Collection"
+  message: "Milk-Collection D"
   contactDetails:
     name: "Edward Malte"
-    email: "lGm4o@example.com"
+    email: "default@example.com"
   onCallSupport:
     - 317888
     - 317999
